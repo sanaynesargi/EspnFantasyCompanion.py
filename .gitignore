@@ -1,0 +1,5 @@
+__pycache__
+env/
+change_json.py
+teams.json
+.DS_STORE
